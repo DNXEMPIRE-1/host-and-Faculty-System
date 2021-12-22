@@ -1,0 +1,15 @@
+#alert-component {
+    margin-bottom: 0px;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.easy-autocomplete {
+    width: 100% !important
+}
+
+.easy-autocomplete input {
+    width: 100%;
+}
